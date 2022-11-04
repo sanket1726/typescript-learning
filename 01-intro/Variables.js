@@ -7,3 +7,4 @@ loggedIn = true;
 console.log(greetings);
 console.log(myNumber);
 console.log(loggedIn);
+    
