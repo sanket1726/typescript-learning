@@ -15,6 +15,5 @@ var checks = function (errMsg) {
 };
 var addition = addNums(1, 2);
 logIn("sanket", "1234");
-var check = checks("sss");
-console.log(check);
+checks("sss");
 thorwError("This is an error!");
